@@ -1,0 +1,9 @@
+- name: GitHub
+  link: https://github.com
+  avatar: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  description: Where the world builds software
+
+- name: Hexo
+  link: https://hexo.io
+  avatar: https://hexo.io/logo.svg
+  description: A fast, simple & powerful blog framework
